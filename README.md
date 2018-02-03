@@ -8,7 +8,8 @@ This should be a paragraph:
 	1. This should be an ol item
 	2. This should be an ol item
 
-	
+This should be code:
+
 	function ThisShouldBeCode(string myString) {
 		return myString;
 	}
